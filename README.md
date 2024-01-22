@@ -1,2 +1,1 @@
-# fswiki.osdn.jp
-fswiki.osdn.jp edit history
+# fswiki web site resource
